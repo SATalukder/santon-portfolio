@@ -66,6 +66,6 @@ h2 {
 .experience-area {
     background-image: url(santon-image/exp-bg.png);
     background-repeat: no-repeat;
-    background-position-y: 70%;
+    background-position: left;
 
 }
